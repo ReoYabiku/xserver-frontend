@@ -1,0 +1,11 @@
+.fillScreen {
+    height: 100vh;
+}
+
+.title {
+    margin: 10px 50px 20px;
+}
+
+.flex {
+    display: flex;
+}
